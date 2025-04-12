@@ -5,6 +5,10 @@
         {
             "name": "Victor Ramos",
             "email": "httpsvictorramos@gmail.com"
+        },
+        {
+            "name": "Miguel Antonio Selhorst",
+            "email": "miguelantonioselhorst@gmail.com"
         }
     ],
     "autoload": {
