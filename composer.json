@@ -13,9 +13,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "src\\": "src/",
-            "routes\\": "routes/",
-            "database\\": "database/"
+            "src\\": "src/"
         }
     },
     "require-dev": {
