@@ -12,6 +12,9 @@
         }
     ],
     "autoload": {
+        "files": [
+            "/src/routes/api.php"
+        ],
         "psr-4": {
             "src\\": "src/"
         }

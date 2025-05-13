@@ -44,4 +44,8 @@ class Router {
     public static function post($sRoute, $fFunction) {
         self::getInstance()->routes['post'][$sRoute] = $fFunction;
     }
+
+    public static function callRoute() {
+        
+    }
 }
